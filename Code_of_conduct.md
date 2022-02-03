@@ -47,4 +47,6 @@ The lab space belongs to everyone. I expect that lab members will respect the sp
 This list is not exhaustive.
 
 
+## We value collaboration and open science. 
 
+We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately).
