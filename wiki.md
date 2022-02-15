@@ -16,6 +16,31 @@ Below is a list of computational tools that I would like lab members to be cogni
 + `(R) markdown`: markdown is a markup language used to create this file. R markdown allows embedding R code within markdown documents, creating a document that can be compiled to contain both explanatory text and the results of analyses. [markdown tutorial](https://www.markdowntutorial.com/), [R markdown tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
 
 
+## Lab server
+
+To connect to the lab server, we need to be either on campus or use `GlobalProtect` VPN to connect to LSU intranet. The ip address is 130.39.115.238. To get access to it, we can use Terminal (`ssh user@130.39115.238`) or go to your browser and enter http://130.39.115.238:8787/ (or http://lsb-125-srv.lsu.edu:8787/) then login with your information.
+
+We should save our projects in `/media/dli/Data`
+
+### Set up new user
+
+```bash
+ssh root@server.ip.address
+sudo adduser username
+sudo usermod -aG sudo username
+```
+
+Then log in to set up RStudio server:
+
+```bash
+# specify where to install R packages
+echo 'R_LIBS_USER="~/R"' > .Renviron
+# to install binary packages
+echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagemanager.rstudio.com/all/__linux__/focal/latest"))' > .Rprofile
+```
+
+
+
 ## Library resource
 
 For some reason, I still cannot download articles directly from webpages even using the LSU VPN. Instead, I found that it is possible to replace the first part of the URL to get access to full text. Here is a list that I accumulated:
