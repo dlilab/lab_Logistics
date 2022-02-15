@@ -18,7 +18,7 @@ Below is a list of computational tools that I would like lab members to be cogni
 
 ## Lab server
 
-To connect to the lab server, we need to be either on campus or use `GlobalProtect` VPN to connect to LSU intranet. The ip address is 130.39.115.238. To get access to it, we can use Terminal (`ssh user@130.39115.238`) or go to your browser and enter http://130.39.115.238:8787/ (or http://lsb-125-srv.lsu.edu:8787/) then login with your information.
+To connect to the lab server, we need to be either on campus or use `GlobalProtect` VPN to connect to LSU intranet. The ip address is 130.39.115.238. To get access to it, we can use Terminal (`ssh user@130.39.115.238`) or go to your browser and enter http://130.39.115.238:8787/ (or http://lsb-125-srv.lsu.edu:8787/) then login with your information.
 
 We should save our projects in `/media/dli/Data`
 
