@@ -5,7 +5,7 @@
 This will change as machines get added to the lab. This doesn't include the workstations for students, which are three 12gb Dell Optiplex 5020. 
 
 + `2018 Macbook Pro`: lab laptop (16gb RAM laptop, currently lend to Flavia)
-+ `server`: Dell server (128gb RAM, 32 Cores machine in LSB 125)
++ `server`: Dell server (PowerEdge T440, 128gb RAM, 32 Cores machine in LSB 125)
 
 Below is a list of computational tools that I would like lab members to be cognizant of. 
 
