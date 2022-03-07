@@ -2,7 +2,7 @@
 
 This is a working document created to establish best practices for lab interactions and culture. The goal is to clearly lay out my expectations for behavior within the lab in an effort to encourage an inclusive lab culture. 
 
-If you have suggestions for this document -- **whether you are inside the lab or not** -- feel free to suggest them by filing an issue or by issuing a pull request. Much of this document is based on other documents (see footer for sources). 
+If you have suggestions for this document -- **whether you are inside the lab or not** -- feel free to suggest them by filing an issue or by issuing a pull request at [this repository](https://github.com/dlilab/lab_Logistics). 
 
 Science is tough, and it's easy to get down about the barrage of rejections or challenges. However, it's also pretty great, and the list below is designed to make sure it has the potential to be great for everyone. 
 
@@ -33,7 +33,7 @@ However, if lab members do not feel comfortable discussing issues with me or peo
 
 ## Working hours
 
-Researchers in our lab are expected to be present in the lab from 9am - 5pm. However, this is flexible depending on the personal schedules of lab members. The idea is that in order to foster communication and interaction among lab members, having people together in the lab during the workday is useful. Further, it allows a slightly more clear separation between _work time_ and _personal time_. I am not the master of work-life balance by any means, but treating research like a job with clear hours has helped me draw boundaries in the allocation of my time. That being said, if lab members feel that they cannot abide by the 9-5 schedule, they are encouraged to come talk to me. 
+**Researchers in our lab are expected to be present in the lab from 9am - 5pm**. However, this is flexible depending on the personal schedules of lab members. The idea is that in order to foster communication and interaction among lab members, having people together in the lab during the workday is useful. Further, it allows a slightly more clear separation between _work time_ and _personal time_. I am not the master of work-life balance by any means, but treating research like a job with clear hours has helped me draw boundaries in the allocation of my time. That being said, if lab members feel that they cannot abide by the 9-5 schedule, they are encouraged to come talk to me. 
 
 
 ## Lab space

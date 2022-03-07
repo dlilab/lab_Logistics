@@ -39,8 +39,6 @@ echo 'R_LIBS_USER="~/R"' > .Renviron
 echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagemanager.rstudio.com/all/__linux__/focal/latest"))' > .Rprofile
 ```
 
-
-
 ## Library resource
 
 For some reason, I still cannot download articles directly from webpages even using the LSU VPN. Instead, I found that it is possible to replace the first part of the URL to get access to full text. Here is a list that I accumulated:
@@ -71,6 +69,16 @@ I do not need to be coauthor on every manuscript coming out of the lab, and I en
 
 If you need to get permission to drive a university vehicle, you need to [get authorization first](https://lsu.edu/riskmgt/vehicleuse/lsuam_vehicleuseprocedures.php).
 
-## Keys
+## On board list
 
-[Request keys here](https://sites01.lsu.edu/faculty/biosci/work-request/). In the 'Purpose of Request' row, select 'Key Request'.
+Here is a list for those who are just on board
+
+- An official welcome (can be just an email)
+- Tour of lab space
+- Point to this Wiki
+- [Request keys here](https://sites01.lsu.edu/faculty/biosci/work-request/). In the 'Purpose of Request' row, select 'Key Request'.
+- Accessibility through email or office visits
+- Talk about potential research projects
+- Discuss the lab Github, protocols, and useful lab skill
+- Weekly one-on-one meeting plus lab meeting
+- 
