@@ -35,14 +35,15 @@ However, if lab members do not feel comfortable discussing issues with me or peo
 
 **Researchers in our lab are expected to be present in the lab from 9am - 5pm**. However, this is flexible depending on the personal schedules of lab members. The idea is that in order to foster communication and interaction among lab members, having people together in the lab during the workday is useful. Further, it allows a slightly more clear separation between _work time_ and _personal time_. I am not the master of work-life balance by any means, but treating research like a job with clear hours has helped me draw boundaries in the allocation of my time. That being said, if lab members feel that they cannot abide by the 9-5 schedule, they are encouraged to come talk to me. 
 
+I expect everyone in the lab to create a weekly planning Google Doc and share it with me. Within this document, each of us should list what we have done this week and what we plan to do (_dodable actions_) next week. This file will also serve as an agenda for our one-to-one weekly meetings.
+
 
 ## Lab space
 
 The lab space belongs to everyone. I expect that lab members will respect the space and other members using this space. As a member of the lab, I will ensure that you have access to the resources you need to do your best science. This means that you will be issued a:
 
-+ lab notebook 
-+ computer 
 + desk space
++ lab notebook 
 
 This list is not exhaustive.
 

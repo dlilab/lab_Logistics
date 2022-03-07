@@ -81,4 +81,7 @@ Here is a list for those who are just on board
 - Talk about potential research projects
 - Discuss the lab Github, protocols, and useful lab skill
 - Weekly one-on-one meeting plus lab meeting
-- 
+  - I expect everyone in the lab to create a weekly planning Google Doc and share it with me. Within this document, each of us should list what we have done this week and what we plan to do (_dodable actions_) next week. This file will also serve as an agenda for our one-to-one weekly meetings.
+  
+
+  
