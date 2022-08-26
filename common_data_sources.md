@@ -111,3 +111,9 @@
 - [Mammal traits](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3344)
 - [Butterfly traits LepTraits](https://www.nature.com/articles/s41597-022-01473-5)
 - [Amphibian traits AmphiBIO](https://www.nature.com/articles/sdata2017123)
+
+# Long-term ecological data (LTER)
+
+- [CAP LTER urban site at Phoenix](https://sustainability-innovation.asu.edu/caplter/data/)
+
+
