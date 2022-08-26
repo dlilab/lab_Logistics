@@ -16,6 +16,7 @@
 - [Essential climate variables for assessment of climate variability from 1979 to present, 0.25 degree by 0.25 degree](https://cds.climate.copernicus.eu/cdsapp#!/dataset/ecv-for-climate-change?tab=form)
 - [TerraClimate](https://www.climatologylab.org/terraclimate.html): a dataset of monthly climate and climatic water balance for global terrestrial surfaces from 1958-2020. All data have monthly temporal resolution and a ~4-km (1/24th degree) spatial resolution.
 - [TopoWx climate](https://www.scrim.psu.edu/resources/topowx/): TopoWx (“Topography Weather”) is an 800-meter (30-arcsec) resolution gridded dataset of daily minimum and maximum air temperature for the conterminous U.S. The objective of TopoWx is to provide gridded temperature estimates that accurately capture both (1) locally relevant topoclimate spatial patterns; and (2) regional climate variability and trends. TopoWx gridded temperature estimates are based on historical daily station observations, digital elevation model (DEM) variables, atmospheric reanalysis data, and MODIS land skin temperature. (1948-2016??)
+- [Paleoclim](www.paleoclim.org): Climatic variables between the Pleistocene and Pliocene.
 
 # City data
 
@@ -32,6 +33,7 @@
 - [Urban land expansion by 2050](https://figshare.com/articles/Global_Urban_Land_Expansion_by_2050/7897010)
 - [Urban heat island intensification](https://figshare.com/articles/Global_Urban_Heat_Island_Intensification/7897433)
 - [Global human modification index at 1 km2 around 2016](https://figshare.com/articles/dataset/Global_Human_Modification/7283087)
+- [CAP LTER urban site at Phoenix](https://sustainability-innovation.asu.edu/caplter/data/)
 
 # Other environmental data
 
@@ -101,6 +103,7 @@
 
 - [PREDICTS](https://onlinelibrary.wiley.com/doi/10.1002/ece3.2579)
 - [BioTIME]
+- [Marine species](https://obis.org/)
 
 # Trait data
 
@@ -111,9 +114,20 @@
 - [Mammal traits](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3344)
 - [Butterfly traits LepTraits](https://www.nature.com/articles/s41597-022-01473-5)
 - [Amphibian traits AmphiBIO](https://www.nature.com/articles/sdata2017123)
+- [Animal longevity](genomics.senescence.info/species/)
+- [Tree of Sex](http://treeofsex.org/)
+- [Karyotypes – Animals](http://coleoguy.github.io/karyotypes/)
+- [Chromosome counts – Animals](https://cromanpa94.github.io/ACC/)
+- [Genome size](https://www.genomesize.com/)
+- [Global Information for coral reefs](http://www.reefbase.org/main.aspx)
+- [Coral bleaching dataset](https://www.nature.com/articles/s41597-022-01121-y)
+- [Movebank](https://www.movebank.org/cms/movebank-main)
+- [Global Biotic Interactions](https://www.globalbioticinteractions.org/about)
+- [Root biomass](https://essd.copernicus.org/articles/13/4263/2021/)
+- [Canopy height](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001708)
+- [morphological, ecological and geographical data for birds](https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/1)
+- [Egg shape and size 6k insect species](https://www.nature.com/articles/s41597-019-0049-y)
 
-# Long-term ecological data (LTER)
 
-- [CAP LTER urban site at Phoenix](https://sustainability-innovation.asu.edu/caplter/data/)
 
 
