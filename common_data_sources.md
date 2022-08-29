@@ -89,7 +89,7 @@
 - [urban phenology data](https://www.earth-syst-sci-data.net/11/881/2019/)
 
 
-# Species distribution, exotic species
+# Species distribution, biodiversity
 
 - [IUCN species spatial distribution data](https://www.iucnredlist.org/resources/spatial-data-download)
 - [The Global Naturalized Alien Flora (GloNAF) database](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2542)
@@ -100,10 +100,10 @@
 - [Terrestrial Vertebrate Species Richness Maps for the Conterminous U.S.](https://doi.org/10.3133/sir20195034)
 - [IUCN species range maps, including birds, mammals, reptiles, amphibians, etc.](https://www.iucnredlist.org/resources/spatial-data-download)
 - [GLOBIO scenario data](https://www.globio.info/resources)
-
-- [PREDICTS](https://onlinelibrary.wiley.com/doi/10.1002/ece3.2579)
-- [BioTIME]
+- [PREDICTS](https://onlinelibrary.wiley.com/doi/10.1002/ece3.2579): datasets regarding effects of land use on biodiversity
+- [BioTIME](https://biotime.st-andrews.ac.uk/): hundreds of time-series community composition datasets.
 - [Marine species](https://obis.org/)
+- [Organization of Biological Field Stations](https://www.obfs.org/); [Data registry](https://knb.ecoinformatics.org/knb/style/skins/obfs/): the primary source for comprehensive information about scientific and research data sets collected within or under the auspices of the Organization of Biological Field Stations.
 
 # Trait data
 
