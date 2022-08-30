@@ -99,6 +99,7 @@
 - [US vertebrate species predicted habitat maps by USGS](https://doi.org/10.5066/F7V122T2)
 - [Terrestrial Vertebrate Species Richness Maps for the Conterminous U.S.](https://doi.org/10.3133/sir20195034)
 - [IUCN species range maps, including birds, mammals, reptiles, amphibians, etc.](https://www.iucnredlist.org/resources/spatial-data-download)
+- [Mammal range maps](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14330); [data here](https://zenodo.org/record/6644198#.Yw2CN-zML0o)
 - [GLOBIO scenario data](https://www.globio.info/resources)
 - [PREDICTS](https://onlinelibrary.wiley.com/doi/10.1002/ece3.2579): datasets regarding effects of land use on biodiversity
 - [BioTIME](https://biotime.st-andrews.ac.uk/): hundreds of time-series community composition datasets.
