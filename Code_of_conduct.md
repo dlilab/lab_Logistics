@@ -4,9 +4,7 @@ This is a working document created to establish best practices for lab interacti
 
 Science is tough, and it's easy to get down about the barrage of rejections or challenges. However, it's also pretty great, and the list below is designed to make sure it has the potential to be great for everyone. 
 
-_Please note that this document is not a substitute for university rules and regulations, and that those policies and any legal requirements supersede anything in this document._ 
-
-If you have suggestions for this document -- **whether you are inside the lab or not** -- feel free to suggest them by filing an issue or by issuing a pull request at [this repository](https://github.com/dlilab/lab_Logistics). 
+_Please note that this document is not a substitute for university rules and regulations, and that those policies and any legal requirements supersede anything in this document._ If you have suggestions for this document -- **whether you are inside the lab or not** -- feel free to suggest them by filing an issue or by issuing a pull request at [this repository](https://github.com/dlilab/lab_Logistics). 
 
 ## You are welcome in this lab
 
@@ -42,7 +40,7 @@ The lab is dedicated to creating a safe environment where harassment and other f
     + You should learn how to plan your research project by reading the literature and discussing with me and others in the lab.
     + You should develop your writing and presentation skills. I expect that you will have at least 3 chapters for your dissertation, with each chapter being a publishable manuscript. You should try to have a daily writing habit. Although the availability of travel funds will vary, I encourage you to submit your work for presentation at one conference per year. Attend relevant seminars such as the weekly department seminars to learn both science and how to give a good talk. 
     + You should try to develop your mentoring and management skills. Mentoring undergraduate researchers can be a great opportunity to further your professional development as a supervisor and can help your own research progress.
-    + You should apply for fellowships, traineeships, small research grants, and travel grants as much as you can. Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply.
+    + You should apply for fellowships, small research grants, and travel grants as much as you can. Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply.
     + You should keep a detailed lab notebook to record all details of your experiments and research. Data belongs to the lab, not to any one individual. As a result, you will be expected to leave your original notebooks and files when you leave the lab. 
 - Be respectful, tolerant of, and work collegially with laboratory colleagues:  respect individual differences in values, personalities, and work styles. 
 
@@ -70,7 +68,7 @@ The lab space belongs to everyone. I expect that lab members will respect the sp
 This list is not exhaustive.
 
 
-## We value collaboration and open science. 
+## We value collaboration and open science
 
 We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately).
 
