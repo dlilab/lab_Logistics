@@ -105,6 +105,8 @@
 - [BioTIME](https://biotime.st-andrews.ac.uk/): hundreds of time-series community composition datasets.
 - [Marine species](https://obis.org/)
 - [Organization of Biological Field Stations](https://www.obfs.org/); [Data registry](https://knb.ecoinformatics.org/knb/style/skins/obfs/): the primary source for comprehensive information about scientific and research data sets collected within or under the auspices of the Organization of Biological Field Stations.
+- [The Reptile Database](http://www.reptile-database.org/): checklist of reptiles
+- [Reptile range maps](https://www.nature.com/articles/s41559-017-0332-2).
 
 # Trait data
 
