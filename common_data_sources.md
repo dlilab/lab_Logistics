@@ -34,6 +34,7 @@
 - [Urban heat island intensification](https://figshare.com/articles/Global_Urban_Heat_Island_Intensification/7897433)
 - [Global human modification index at 1 km2 around 2016](https://figshare.com/articles/dataset/Global_Human_Modification/7283087)
 - [CAP LTER urban site at Phoenix](https://sustainability-innovation.asu.edu/caplter/data/)
+- [Global Human Settlement dataset](https://ghsl.jrc.ec.europa.eu/datasets.php)
 
 # Other environmental data
 
