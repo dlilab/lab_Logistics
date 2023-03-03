@@ -9,7 +9,7 @@
 - [monthly weather and climatology variables of North America from 1980](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1855)
 - [Daily climate date Global historical climatology network](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn)
 - [Daily European E-OBS v20.0e gridded climatic dataset](https://www.ecad.eu/download/ensembles/download.php)
-- [global aridity and potential evapo-transporation PET](https://figshare.com/articles/Global_Aridity_Index_and_Potential_Evapotranspiration_ET0_Climate_Database_v2/7504448/3)
+- [global aridity and potential evapo-transporation PET](https://figshare.com/articles/Global_Aridity_Index_and_Potential_Evapotranspiration_ET0_Climate_Database_v2/7504448/3) 1970-2000, 30 arc-seconds
 - [global soil actual evapo-transporation](https://cgiarcsi.community/data/global-high-resolution-soil-water-balance/)
 - [Land surface temperature](https://lpdaac.usgs.gov/products/mod11c3v006/), FTP: https://e4ftl01.cr.usgs.gov/MOLT/MOD11C3.006/ 
 - [High-resolution 5-km monthly precipitation and temperature time series from 2006 to 2100](https://www.nature.com/articles/s41597-020-00587-y)
