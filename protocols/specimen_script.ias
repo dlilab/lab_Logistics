@@ -1,0 +1,58 @@
+main_tasks:
+  - text: 'Whole plant present?'
+    variable: 'whole_plant'
+    default: 'U'
+    responses:
+      - text: 'whole plant present'
+        action: keypress{p ~ 1}
+      - text: 'whole plant absent'
+        action: keypress{a ~ 0}
+      - text: 'uncertain'
+        action: keypress{u ~ U}
+
+  - text: 'leaves present?'
+    variable: 'leaves'
+    default: 'U'
+    responses:
+      - text: 'leaves present'
+        action: keypress{p ~ 1}
+      - text: 'leaves absent'
+        action: keypress{a ~ 0}
+      - text: 'uncertain'
+        action: keypress{u ~ U}
+
+  - text: 'flowers present?'
+    variable: 'flowers'
+    default: 'U'
+    responses:
+      - text: 'flowers present'
+        action: keypress{p ~ 1}
+      - text: 'flowers absent'
+        action: keypress{a ~ 0}
+      - text: 'uncertain'
+        action: keypress{u ~ U}
+        jump-to: reproduction_tasks
+
+  - text: 'fruits present?'
+    variable: 'fruits'
+    default: 'U'
+    responses:
+      - text: 'fruits present'
+        action: keypress{p ~ 1}
+      - text: 'fruits absent'
+        action: keypress{a ~ 0}
+      - text: 'uncertain'
+        action: keypress{u ~ U}
+        jump-to: reproduction_tasks
+
+reproduction_tasks:
+  - text: 'reproductive structure present?'
+    variable: 'reproductive_structure'
+    default: ''
+    responses:
+      - text: 'reproductive structure present'
+        action: keypress{p ~ 1}
+      - text: 'reproductive structure absent'
+        action: keypress{a ~ 0}
+      - text: 'uncertain'
+        action: keypress{u ~ U}
