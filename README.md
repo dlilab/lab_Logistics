@@ -8,5 +8,6 @@ This repository contains information pertinent to the folks working in the Li la
 - [Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)
 - [Tim Poisot](https://t.co/OGuVxKPvfN)
 - [Tad Dallas](https://github.com/dallasLab/labLogistics)
+- [Ziplin lab](https://github.com/zipkinlab/Policies/tree/master)
 
 
