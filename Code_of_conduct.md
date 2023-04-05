@@ -24,26 +24,36 @@ The lab is dedicated to creating a safe environment where harassment and other f
 
 ## What you can expect from me
 
+- My primary goal is to help you make the transition from a student to a colleague.
 - I will set the broad scientific direction for the lab but you have the freedom to pursue your own research projects. I will help you to find/refine your research topic and to help you write grants to fund your research. I will encourage you to attend scientific meetings to promote you and your work. You should try to apply for grants to fund your research and conferences first. If failed, I may be able to support with my own funding.  
 - I am committed to mentoring you now and in the future. I will advise and guide your research, training, and career development while in my lab. I am happy to give any advices after your graduation if needed.
-- I will be available for regular meetings and provide timely review of research. I expect to meet with everyone in the lab weekly (see the Meetings section below). You should try to get the most out of these meetings. For short things such as abstracts or 1-2 page summaries, I will generally be able to get back to you in 1-2 days; for papers and thesis, I will need at least 1-2 weeks. In the event of a lab emergency, I may be contacted on my cell phone.
+- I will be available for regular meetings and provide timely review of research. I expect to meet with everyone in the lab weekly (see the Meetings section below). You should try to get the most out of these meetings. For short things such as abstracts or 1-2 page summaries, I will generally be able to get back to you in 1-2 days; *for papers and thesis, I will need at least 1-2 weeks*. In the event of a lab emergency, I may be contacted on my cell phone.
 - I will provide a work environment environment that is intellectually stimulating, supportive, safe, and free from harassment. I will strive to understand your unique situation and am open to your suggestions on how to improve your experience in the lab.
 
 ## What I expect from you
 
-**Overall, I expect that you will take ownership of your educational experience. This is your education and you should be the driver.**
+**Overall, I expect that you will take ownership of your educational experience. This is your education and you should be the driver. I expect that you will work hard and willing to accept criticism and consider other points of view.**
 
-- I will work with you to select courses, committee members, prepare for qualifying and general exams etc. But you need to determine the requirements for your graduate program and are responsible to ensure that you are in compliance. 
-- You will keep me updated on your research progress and challenges by taking advantage of the regular meetings (see the Meetings section below).
+- Be respectful, tolerant of, and work collegially with laboratory colleagues: respect individual differences in values, personalities, and work styles. 
+- You need to make many decisions during your graduate school or postdoc training (and through your whole career). I expect that your decisions will be well-thought-out and well justified. It is ok that we may have different thoughts, which is okay as long as you have good and well-informed reasons. I will generally let you know how strongly I feel about a particular issue.
+- You will keep me updated on your research progress and challenges by taking advantage of the regular meetings (see the Meetings section below). 
 - You should always seek out professional development opportunities. To be successfully, you must develop strong communication skills (presentations, papers, proposals, etc.), time management skills, mentoring, and most importantly, research progress toward your thesis.
     + You should read the scientific literature frequently. Spend time each week to follow the most recent literature by browsing RSS feeds and read those that are relevant to your own research in details.
     + You should learn how to plan your research project by reading the literature and discussing with me and others in the lab.
-    + You should develop your writing and presentation skills. I expect that you will have at least 3 chapters for your dissertation, with each chapter being a publishable manuscript. You should try to have a daily writing habit. Although the availability of travel funds will vary, I encourage you to submit your work for presentation at one conference per year. Attend relevant seminars such as the weekly department seminars to learn both science and how to give a good talk. 
+    + You should develop your writing and presentation skills. You should try to have a daily writing habit as **publications are your only true form of currency**. Your degree alone, or even your research experiences, won’t get you a job and neither will your grades during graduate school. It is to your advantage to publish early and often. 
+    + Although the availability of travel funds will vary, I encourage you to submit your work for presentation at one conference per year. Attend relevant seminars such as the weekly department seminars to learn both science and how to give a good talk. 
     + You should try to develop your mentoring and management skills. Mentoring undergraduate researchers can be a great opportunity to further your professional development as a supervisor and can help your own research progress.
     + You should apply for fellowships, small research grants, and travel grants as much as you can. Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply.
     + You should keep a detailed lab notebook to record all details of your experiments and research. Data belongs to the lab, not to any one individual. As a result, you will be expected to leave your original notebooks and files when you leave the lab. 
-- Be respectful, tolerant of, and work collegially with laboratory colleagues:  respect individual differences in values, personalities, and work styles. 
 
+## Graduate students
+
+It is your responsibility to know the rules and requirements for your graduate program and are responsible to ensure that you are in compliance. You should be aware of any and all deadlines.
+
+- **Academic year funding:** The department guarantees PhD students five years of funding during the academic years (fall and spring terms). Funding past these time frames is not guaranteed. Many students in the program take a year or two longer and do receive teaching assistantships after the guaranteed period has ended. However, you can’t depend on this. I normally expect students being teaching assistants before finishing their course work. Experience teaching will be valuable to you (and your CV!) whatever your career path, even if you decide to leave academia. On the same token, I don’t want you to teach every semester that you are a student, as this can impede your progress on your research and dissertation. As such, I will work with you to obtain research-related funding if you don’t have it. In some cases, you may need to take the lead on proposals. I am always available to talk with you about this and I encourage you to bring up any funding issues in our meetings if you have concerns.
+- **Summer funding:** Ideally, you will be funded over the summers while you are a graduate student. You should make a concerted effort to obtain summer funding on your own every summer. This provides you with practice writing proposals (another one of those invaluable experiences). Obtaining your own funding looks excellent on your CV. It is my intention to provide you with as much summer funding as I can if you are unable to secure your own. But this, of course, is dependent on what money I have available. While there is no guarantee of summer funding, I will try my hardest to help you obtain partial or full funding over the summers while you are a graduate student.
+- **Committee meetings:** I recommend you take full advantage of your committee meetings, which in most cases, should occur yearly. You won’t have all of your committee members in one room too often during your training so make sure you are *extremely well-prepared*. You should send the committee an agenda and any documents you want them to read *at least one week before the meeting*. During the meeting, you will generally give an oral presentation, letting people know the very specific goals of the meeting first and then proceeding systematically through the areas you need to address. If you aren’t prepared for your meeting, it will be clear to the committee.
+- **Your dissertation and publishing:** I expect your PhD dissertation will comprise at least three high-quality manuscripts, in which you are the first author. You will likely also have to write a short introduction tying together your chapters and possibly a (very short) conclusion section, depending on what your committee requests. At least one of the manuscripts should be accepted for publication before you defend your dissertation and the other manuscripts should be submitted. The publication process can be long and arduous. Therefore you need to plan carefully. I encourage you to start on your research from the very first day you join the lab. I expect that you will submit your first paper around the end of your second year, before you take your qualifying/general exam.
 
 ## Working hours
 
@@ -51,7 +61,7 @@ The lab is dedicated to creating a safe environment where harassment and other f
 
 ## Meetings
 
-I will try my best to meet with everyone in the lab weekly if needed. You should come prepared to present and discuss your recent research and next steps. I expect everyone in the lab to create a weekly planning Google Doc and share it with me. Within this document, each of us should list what we have done this week and what we plan to do (_dodable actions_) next week. This file will also serve as an agenda for our one-to-one weekly meetings.
+*I expect you will drive the agenda of our one-on-one meetings, providing a list of things we need to discuss — this is part of your taking charge of your education and development*. I will try my best to meet with everyone in the lab weekly if needed. You should come prepared to present and discuss your recent research and next steps. I expect everyone in the lab to create a weekly planning Google Doc and share it with me. Within this document, each of us should list what we have done this week and what we plan to do (_dodable actions_) next week. This file will also serve as an agenda for our one-to-one weekly meetings.
 
 ## Annual Evaluations
 
@@ -70,7 +80,7 @@ This list is not exhaustive.
 
 ## We value collaboration and open science
 
-We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately).
+We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately). For each published article, I expect that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the [Project completion checklist](https://github.com/dlilab/lab_Logistics/blob/main/project_completion_checklist.md) for a detailed list of tasks associated with closing out a project.
 
 ## How to handle an issue
 
