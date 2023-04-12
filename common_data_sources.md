@@ -119,7 +119,8 @@
 - [Bird traits AVONET](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898)
 - [Mammal traits](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3344)
 - [Butterfly traits LepTraits](https://www.nature.com/articles/s41597-022-01473-5)
-- [Amphibian traits AmphiBIO](https://www.nature.com/articles/sdata2017123)
+- [Amphibian traits AmphiBIO, mostly life history and ecological traits](https://www.nature.com/articles/sdata2017123)
+- [Anphibian morphological traits database](https://onlinelibrary.wiley.com/doi/10.1111/geb.13656?af=R); https://figshare.com/articles/dataset/Amphibian_database/21159229 
 - [Animal longevity](genomics.senescence.info/species/)
 - [Tree of Sex](http://treeofsex.org/)
 - [Karyotypes – Animals](http://coleoguy.github.io/karyotypes/)
