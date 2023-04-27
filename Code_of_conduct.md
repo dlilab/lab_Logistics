@@ -81,7 +81,7 @@ We generally use email and Discord to communicate within the group. Email should
 
 ## Response times
 
-I will try to respond to urgent emails within 6 hours, but it may take up to 24 hours. Complicated requests may take longer. I can often provide general feedback for short things such as abstracts or 1-2 page summaries or fellowship applications within 7 days. Detailed reading and feedback will normally requires 2-3 weeks. *So plan accordingly if you want to get my feedback before deadlines* and it is always better to provide an explicit date for when you need feedback rather than “as soon as possible”. In the event of a lab emergency, I may be contacted on my cell phone. 
+I will try to respond to urgent emails within 6 hours, but it may take up to 24 hours. Complicated requests may take longer. I can often provide general feedback for short things such as abstracts or 1-2 page summaries or fellowship applications within 7 days. Detailed reading and feedback will normally requires 2-3 weeks. If you want a well thought letter of recommendation from me, at least give me 4 weeks. *So plan accordingly if you want to get my feedback before deadlines* and it is always better to provide an explicit date for when you need feedback rather than “as soon as possible”. In the event of a lab emergency, I may be contacted on my cell phone. 
 
 ## Annual Evaluations
 
