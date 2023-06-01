@@ -1,6 +1,6 @@
 # Code of conduct
 
-This is a working document created to establish best practices for lab interactions and culture. The goal is to clearly lay out my expectations for behavior within the lab in an effort to encourage an inclusive lab culture. 
+This is a working document created to establish best practices for lab interactions and culture. The goal is to clearly lay out my expectations for behavior within the lab in an effort to encourage an inclusive lab culture. All lab members should contribute to its continuing development.
 
 Science is tough, and it's easy to get down about the barrage of rejections or challenges. However, it's also pretty great, and the list below is designed to make sure it has the potential to be great for everyone. 
 
@@ -8,7 +8,7 @@ _Please note that this document is not a substitute for university rules and reg
 
 ## You are welcome in this lab
 
-The lab is dedicated to creating a safe environment where harassment and other forms of intimidation are not allowed. A safe environment also means that there is **zero tolerance for any form of discrimination, including age, disability, appearance, sexual orientation, race, nationality, or religion (or lack thereof)**. You are encouraged to share your perspective. Everyone’s perspective is valuable and should be listened to equally and respectfully. Discussions are encouraged, so long as they adhere to considerate language. We also are committed to diversity, equity and inclusion and strive to achieve these in the lab. Not only is everyone welcome to work in the lab if they follow basic guidelines, we actively seek to build a group that is diverse among multiple dimensions.
+The lab is dedicated to creating a safe environment where harassment and other forms of intimidation are not allowed. A safe environment also means that there is **zero tolerance for any form of discrimination, including age, disability, appearance, sexual orientation, race, nationality, or religion (or lack thereof)**. Each person's identity, culture, background, experience, status, abilities, and opinions will be respected. Discussions are encouraged, so long as they adhere to considerate language. We also are committed to diversity, equity and inclusion and strive to achieve these in the lab. Not only is everyone welcome to work in the lab if they follow basic guidelines, we actively seek to build a group that is diverse among multiple dimensions.
 
 ## General rules of conduct
 
@@ -24,7 +24,7 @@ The lab is dedicated to creating a safe environment where harassment and other f
 
 ## What you can expect from me
 
-- My primary goal is to help you make the transition from a student to a colleague.
+- My primary goal is to help you make the transition from a student to a colleague and to foster your career. There is a balancing act between being hands off and helping that I may not always get it right. Therefore, you have to let me know if you need something you aren't getting, or if there is something you are getting that you don't want.
 - I will set the broad scientific direction for the lab but you have the freedom to pursue your own research projects. I will help you to find/refine your research topic and to help you write grants to fund your research. I will encourage you to attend scientific meetings to promote you and your work. You should try to apply for grants to fund your research and conferences first. If failed, I may be able to support with my own funding.  
 - I am committed to mentoring you now and in the future. I will advise and guide your research, training, and career development while in my lab. I am happy to give any advices after your graduation if needed.
 - I will be available for regular meetings and provide timely review of research. I expect to meet with everyone in the lab weekly (see the Meetings section below). You should try to get the most out of these meetings. 
@@ -46,6 +46,11 @@ The lab is dedicated to creating a safe environment where harassment and other f
     + You should apply for fellowships, small research grants, and travel grants as much as you can. Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply.
     + You should keep a detailed lab notebook to record all details of your experiments and research. Data belongs to the lab, not to any one individual. As a result, you will be expected to leave your original notebooks and files when you leave the lab. 
 
+## Funding
+
+As postdocs and graduate students get funding from different sources, it is impossible to make funding 100% equal for everyone. Despite that lab finances are one area that is not totally transparent to all lab members, please trust that Daijiang is trying to make things as equitable as possible.
+
+
 ## Graduate students
 
 It is your responsibility to know the rules and requirements for your graduate program and are responsible to ensure that you are in compliance. You should be aware of any and all deadlines.
@@ -61,7 +66,7 @@ Postdoc time is the best time to learn new research skills and publish high-qual
 
 ## Lab attendance and working hours
 
-**Researchers in our lab are expected to be present in the lab from 9am - 5pm**. However, this is flexible depending on the personal schedules of lab members. The idea is that in order to foster communication and interaction among lab members, having people together in the lab during the workday is useful. I strongly believe that the research experience is greatly enriched through personal interactions in the lab, sharing ideas, helping each other solve problems, etc. Further, it allows a slightly more clear separation between _work time_ and _personal time_. I am not the master of work-life balance by any means, but treating research like a job with clear hours has helped me draw boundaries in the allocation of my time. That being said, if lab members feel that they cannot abide by the 9-5 schedule, they are encouraged to come talk to me. I am not going to track hours for lab members. However, if I sense that this is being taken advantage of, the situation will be addressed. 
+**Researchers in our lab are expected to be present in the lab from 9am - 5pm**. However, the lab is product oriented: your success will be determined by what you accomplish, not by how many hours you work. The reason to have this time expectation is that in order to foster communication and interaction among lab members, having people together in the lab during the workday is useful and will likely help you and those around you stay engaged. Further, it allows a slightly more clear separation between _work time_ and _personal time_. I am not the master of work-life balance by any means, but treating research like a job with clear hours has helped me draw boundaries in the allocation of my time. That being said, if lab members feel that they cannot abide by the 9-5 schedule, they are encouraged to come talk to me. I am not going to track hours for lab members and _you are ultimately responsible for your time management_. However, if I sense that this is being taken advantage of, the situation will be addressed. 
 
 ## Reading
 
@@ -98,9 +103,13 @@ The lab space belongs to everyone. I expect that lab members will respect the sp
 
 This list is not exhaustive.
 
-## We value collaboration and open science
+## Collaboration, data, and open science
 
-We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately). For each published article, I expect that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the [Project completion checklist](https://github.com/dlilab/lab_Logistics/blob/main/project_completion_checklist.md) for a detailed list of tasks associated with closing out a project.
+We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately). 
+
+For each published article, I expect that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the [Project completion checklist](https://github.com/dlilab/lab_Logistics/blob/main/project_completion_checklist.md) for a detailed list of tasks associated with closing out a project.
+
+When leaving the lab, it is a good idea for both you and others in the lab to archive and leave a copy of all of your data. Nobody in the lab will use your individual data without your consent. But if you archive them, we will all know where they are.
 
 ## How to handle an issue
 
