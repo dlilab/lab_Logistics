@@ -45,6 +45,7 @@
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
 - [Stats for Data Science](https://dtkaplan.github.io/SDS-book/index.html#table-of-contents)
 - [Modern statistics with R](http://www.modernstatisticswithr.com/)
+- [Applied Geodata Science](https://geco-bern.github.io/agds/)
 
 - [INLA tutorials](https://haakonbakka.bitbucket.io/organisedtopics.html) 
 - [INLA tutorials 2](https://www.precision-analytics.ca/blog-1/inla)
