@@ -36,7 +36,7 @@ Then log in to set up RStudio server:
 # specify where to install R packages
 echo 'R_LIBS_USER="~/R"' > .Renviron
 # to install binary packages
-echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagemanager.rstudio.com/all/__linux__/focal/latest"))' > .Rprofile
+echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagemanager.posit.co/all/__linux__/focal/latest"))' > .Rprofile
 ```
 
 ## Library resource
