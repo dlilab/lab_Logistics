@@ -80,7 +80,7 @@
 - [100m land cover data](https://lcviewer.vito.be/)
 - [history database of the global environment](https://themasites.pbl.nl/tridion/en/themasites/hyde/download/index-2.html); historical human population density data, land use change data
 - [city data](http://open.dataforcities.org)
-- [Global mountain shapefiles](https://www.nature.com/articles/s41597-022-01256-y), https://www.earthenv.org/mountains 
+- [Global mountain shapefiles](https://www.nature.com/articles/s41597-022-01256-y), https://www.earthenv.org/mountains, associated [R package](https://github.com/GMBA-biodiversity/gmbaR) 
 
 
 # Phenology 
