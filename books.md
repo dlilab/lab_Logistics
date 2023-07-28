@@ -46,7 +46,8 @@
 - [Stats for Data Science](https://dtkaplan.github.io/SDS-book/index.html#table-of-contents)
 - [Modern statistics with R](http://www.modernstatisticswithr.com/)
 - [Applied Geodata Science](https://geco-bern.github.io/agds/)
-
+- [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/)
+- 
 - [INLA tutorials](https://haakonbakka.bitbucket.io/organisedtopics.html) 
 - [INLA tutorials 2](https://www.precision-analytics.ca/blog-1/inla)
 - [INLA book](https://becarioprecario.bitbucket.io/inla-gitbook/index.html)
