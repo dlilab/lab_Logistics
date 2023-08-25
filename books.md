@@ -64,4 +64,6 @@
 - [Network science](http://networksciencebook.com/chapter/1#vulnerability)
 - [Numeric community ecology](https://www.davidzeleny.net/anadat-r/doku.php/en:start)
 - [ggtree](https://yulab-smu.github.io/treedata-book/index.html )
+- [Effective Ecology](https://bookdown.org/rogerdavidcousens/_book/)
+- 
 
