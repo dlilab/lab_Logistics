@@ -48,6 +48,7 @@
 - [Applied Geodata Science](https://geco-bern.github.io/agds/)
 - [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/)
 - [Understanding deep learning](https://udlbook.github.io/udlbook/)
+- [Linear Algebra Done Right](https://linear.axler.net/)
 - 
 - [INLA tutorials](https://haakonbakka.bitbucket.io/organisedtopics.html) 
 - [INLA tutorials 2](https://www.precision-analytics.ca/blog-1/inla)
