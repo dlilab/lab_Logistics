@@ -76,7 +76,7 @@ Here is a list for those who are just on board
 - An official welcome (can be just an email)
 - Tour of lab space
 - Point to this Wiki
-- [Request keys here](https://sites01.lsu.edu/faculty/biosci/work-request/). In the 'Purpose of Request' row, select 'Key Request'.
+- [Request keys here](https://www.lsu.edu/science/biosci/resources/work_requests.php). In the 'Purpose of Request' row, select 'Key Request'.
 - Accessibility through email or office visits
 - Talk about potential research projects
 - Discuss the lab Github, protocols, and useful lab skill
