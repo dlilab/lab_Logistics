@@ -81,6 +81,7 @@
 - [history database of the global environment](https://themasites.pbl.nl/tridion/en/themasites/hyde/download/index-2.html); historical human population density data, land use change data
 - [city data](http://open.dataforcities.org)
 - [Global mountain shapefiles](https://www.nature.com/articles/s41597-022-01256-y), https://www.earthenv.org/mountains, associated [R package](https://github.com/GMBA-biodiversity/gmbaR) 
+- [European land use and land cover dataset](https://essd.copernicus.org/articles/15/3819/2023/), 1950 - 2100, 0.1 degree resolution
 
 
 # Phenology 
@@ -110,6 +111,8 @@
 - [The Reptile Database](http://www.reptile-database.org/): checklist of reptiles
 - [Reptile range maps](https://www.nature.com/articles/s41559-017-0332-2)
 - [World Checklist of Vascular Plants](https://powo.science.kew.org/about-wcvp); its [R package](https://matildabrown.github.io/rWCVP/)
+- [European soil biodiversity - DNA Bacteria and Fungi](https://esdac.jrc.ec.europa.eu/content/soil-biodiversity-dna-bacteria-and-fungi); semi-open, need to submit a request form
+- [European aoil biodiversity - DNA eukaryotes](https://esdac.jrc.ec.europa.eu/content/soil-biodiversity-dna-eukaryotes); semi-open, need to submit a request form
 
 # Trait data
 
@@ -121,6 +124,7 @@
 - [Butterfly traits LepTraits](https://www.nature.com/articles/s41597-022-01473-5)
 - [Amphibian traits AmphiBIO, mostly life history and ecological traits](https://www.nature.com/articles/sdata2017123)
 - [Anphibian morphological traits database](https://onlinelibrary.wiley.com/doi/10.1111/geb.13656?af=R); https://figshare.com/articles/dataset/Amphibian_database/21159229 
+- [Reptile traits ReptTraits](https://www.nature.com/articles/s41597-024-03079-5) 40 traits from 12060 species of reptiles (Archelosauria: Crocodylia and Testudines, Rhynchocephalia, and Squamata: Amphisbaenia, Sauria, and Serpentes).
 - [Animal longevity](genomics.senescence.info/species/)
 - [Tree of Sex](http://treeofsex.org/)
 - [Karyotypes – Animals](http://coleoguy.github.io/karyotypes/)
