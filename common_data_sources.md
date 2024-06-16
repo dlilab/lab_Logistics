@@ -41,6 +41,7 @@
 - [Global raster dataset on historical coastline positions and shelf sea extents since the Last Glacial Maximum](https://onlinelibrary.wiley.com/doi/10.1111/geb.13573?af=R): The spatial resolution is scaled to 120 arcsec (0.333° × 0.333°). The coastline age raster shows the age of coastline positions since the onset of the LGM 26 ka, with time steps of 0.5 kyr.
 - [Standardizing global biogeographical land units](https://onlinelibrary.wiley.com/doi/10.1111/geb.13574?af=R): 10 km × 10 km grain size in equal-area Mollweide projection. https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.hqbzkh1jm 
 - [Global Land Evaporation Amsterdam Model (GLEAM)](https://www.gleam.eu/): global 0.25 by 0.25 degree, 1980 - 2021 Evaporation, soil moisture, etc.
+- [SoilGrids — global gridded soil information](https://www.isric.org/explore/soilgrids): the outputs of SoilGrids are global soil property maps at six standard depth intervals (according to the GlobalSoilMap IUSS working group and its specifications) at a spatial resolution of 250 meters. 
 
 # Human population data
 
