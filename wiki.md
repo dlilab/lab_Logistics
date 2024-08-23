@@ -4,7 +4,6 @@
 
 This will change as machines get added to the lab. This doesn't include the workstations for students, which are three 12gb Dell Optiplex 5020. 
 
-+ `2018 Macbook Pro`: lab laptop (16gb RAM laptop, currently lend to Flavia)
 + `server`: Dell server (PowerEdge T440, 128gb RAM, 32 Cores machine in LSB 125)
 
 Below is a list of computational tools that I would like lab members to be cognizant of. 
@@ -18,7 +17,7 @@ Below is a list of computational tools that I would like lab members to be cogni
 
 ## Lab server
 
-To connect to the lab server, we need to be either on campus or use `GlobalProtect` VPN to connect to LSU intranet. The ip address is 130.39.115.238. To get access to it, we can use Terminal (`ssh user@130.39.115.238`) or go to your browser and enter http://130.39.115.238:8787/ (or http://lsb-125-srv.lsu.edu:8787/) then login with your information.
+To connect to the lab server, we need to be either on campus or use UA VPN to connect to UA intranet. The ip address is 128.196.198.2. To get access to it, we can use Terminal (`ssh user@128.196.198.2`) or go to your browser and enter http://128.196.198.2:8787/ then login with your information.
 
 We should save our projects in `/media/dli/Data`
 
@@ -43,21 +42,21 @@ echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagema
 
 For some reason, I still cannot download articles directly from webpages even using the LSU VPN. Instead, I found that it is possible to replace the first part of the URL to get access to full text. Here is a list that I accumulated:
 
-- List of databases from LSU library: https://login.libezp.lib.lsu.edu/menu
-- Links with doi: https://doi-org.libezp.lib.lsu.edu/
-- jstor links: https://www-jstor-org.libezp.lib.lsu.edu 
-- Science: https://www-sciencemag-org.libezp.lib.lsu.edu or http://www.sciencemag.org.libezp.lib.lsu.edu 
-- Nature: https://www-nature-com.libezp.lib.lsu.edu
-- Royal Society Publishing: https://royalsocietypublishing-org.libezp.lib.lsu.edu/
-- Wiley: https://onlinelibrary-wiley-com.libezp.lib.lsu.edu
-- Science direct: https://www-sciencedirect-com.libezp.lib.lsu.edu
-- U Chicago Press: https://www-journals-uchicago-edu.libezp.lib.lsu.edu/ 
-- Springer: https://link-springer-com.libezp.lib.lsu.edu
-- Cell press: https://www-cell-com.libezp.lib.lsu.edu
-- PNAS: https://www-pnas-org.libezp.lib.lsu.edu
-- Web of Science: https://apps-webofknowledge-com.libezp.lib.lsu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=8F8swBPcvR4AyxiPidm&preferencesSaved=
-- Annual Reviews: https://www-annualreviews-org.libezp.lib.lsu.edu/action/showJournals
-- ProQuest dissertations: https://search-proquest-com.libezp.lib.lsu.edu/?accountid=12154
+- List of databases from LSU library: https://login.ezproxy3.library.arizona.edu/menu
+- Links with doi: https://doi-org.ezproxy3.library.arizona.edu/
+- jstor links: https://www-jstor-org.ezproxy3.library.arizona.edu 
+- Science: https://www-sciencemag-org.ezproxy3.library.arizona.edu or http://www.sciencemag.org.ezproxy3.library.arizona.edu 
+- Nature: https://www-nature-com.ezproxy3.library.arizona.edu
+- Royal Society Publishing: https://royalsocietypublishing-org.ezproxy3.library.arizona.edu/
+- Wiley: https://onlinelibrary-wiley-com.ezproxy3.library.arizona.edu
+- Science direct: https://www-sciencedirect-com.ezproxy3.library.arizona.edu
+- U Chicago Press: https://www-journals-uchicago-edu.ezproxy3.library.arizona.edu/ 
+- Springer: https://link-springer-com.ezproxy3.library.arizona.edu
+- Cell press: https://www-cell-com.ezproxy3.library.arizona.edu
+- PNAS: https://www-pnas-org.ezproxy3.library.arizona.edu
+- Web of Science: https://apps-webofknowledge-com.ezproxy3.library.arizona.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=8F8swBPcvR4AyxiPidm&preferencesSaved=
+- Annual Reviews: https://www-annualreviews-org.ezproxy3.library.arizona.edu
+- ProQuest dissertations: https://search-proquest-com.ezproxy3.library.arizona.edu
 
 
 ## Collaboration
@@ -76,7 +75,7 @@ Here is a list for those who are just on board
 - An official welcome (can be just an email)
 - Tour of lab space
 - Point to this Wiki
-- [Request keys here](https://www.lsu.edu/science/biosci/resources/work_requests.php). In the 'Purpose of Request' row, select 'Key Request'.
+- [Request keys here](https://eeb.arizona.edu/about/department-resources/keys-keyless-access).
 - Accessibility through email or office visits
 - Talk about potential research projects
 - Discuss the lab Github, protocols, and useful lab skill
