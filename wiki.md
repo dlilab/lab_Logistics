@@ -17,7 +17,7 @@ Below is a list of computational tools that I would like lab members to be cogni
 
 ## Lab server
 
-To connect to the lab server, we need to be either on campus or use UA VPN to connect to UA intranet. The ip address is 128.196.198.2. To get access to it, we can use Terminal (`ssh user@128.196.198.2`) or go to your browser and enter http://128.196.198.2:8787/ then login with your information.
+To connect to the lab server, we need to be either on campus or use UA VPN to connect to UA intranet. The ip address is 128.104.98.132. To get access to it, we can use Terminal (`ssh user@128.104.98.132`) or go to your browser and enter http://128.104.98.132:8787/ or http://bot211.botany.wisc.edu:8787/ then login with your information.
 
 We should save our projects in `/media/dli/Data`
 
