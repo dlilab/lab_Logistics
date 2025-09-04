@@ -1,6 +1,6 @@
 # lab-Logistics
 
-This repository contains information pertinent to the folks working in the Li lab at Louisiana State University. Much of the material is borrowed from numerous great folks, who are credited at the end of this document.
+This repository contains information pertinent to the folks working in the Li lab at the University of Wisconsin-Madison. Much of the material is borrowed from numerous great folks, who are credited at the end of this document.
 
 ### Credit
 
@@ -8,6 +8,6 @@ This repository contains information pertinent to the folks working in the Li la
 - [Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)
 - [Tim Poisot](https://t.co/OGuVxKPvfN)
 - [Tad Dallas](https://github.com/dallasLab/labLogistics)
-- [Ziplin lab](https://github.com/zipkinlab/Policies/tree/master)
+- [Zipkin lab](https://github.com/zipkinlab/Policies/tree/master)
 
 
