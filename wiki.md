@@ -40,23 +40,7 @@ echo 'options(servr.daemon = TRUE, repos = c(rstudio_binary = "https://packagema
 
 ## Library resource
 
-For some reason, I still cannot download articles directly from webpages even using the LSU VPN. Instead, I found that it is possible to replace the first part of the URL to get access to full text. Here is a list that I accumulated:
-
-- List of databases from LSU library: https://login.ezproxy3.library.arizona.edu/menu
-- Links with doi: https://doi-org.ezproxy3.library.arizona.edu/
-- jstor links: https://www-jstor-org.ezproxy3.library.arizona.edu 
-- Science: https://www-sciencemag-org.ezproxy3.library.arizona.edu or http://www.sciencemag.org.ezproxy3.library.arizona.edu 
-- Nature: https://www-nature-com.ezproxy3.library.arizona.edu
-- Royal Society Publishing: https://royalsocietypublishing-org.ezproxy3.library.arizona.edu/
-- Wiley: https://onlinelibrary-wiley-com.ezproxy3.library.arizona.edu
-- Science direct: https://www-sciencedirect-com.ezproxy3.library.arizona.edu
-- U Chicago Press: https://www-journals-uchicago-edu.ezproxy3.library.arizona.edu/ 
-- Springer: https://link-springer-com.ezproxy3.library.arizona.edu
-- Cell press: https://www-cell-com.ezproxy3.library.arizona.edu
-- PNAS: https://www-pnas-org.ezproxy3.library.arizona.edu
-- Web of Science: https://apps-webofknowledge-com.ezproxy3.library.arizona.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=8F8swBPcvR4AyxiPidm&preferencesSaved=
-- Annual Reviews: https://www-annualreviews-org.ezproxy3.library.arizona.edu
-- ProQuest dissertations: https://search-proquest-com.ezproxy3.library.arizona.edu
+If you want to download papers from home, you need to use the [WiscVPN](https://kb.wisc.edu/page.php?id=90370). Follow the instruction there, and once you are linked with the VPN, you should be able to read and download papers as you are on campus. 
 
 
 ## Collaboration
@@ -66,7 +50,7 @@ I do not need to be coauthor on every manuscript coming out of the lab, and I en
 
 ## University Authorization Process
 
-If you need to get permission to drive a university vehicle, you need to [get authorization first](https://lsu.edu/riskmgt/vehicleuse/lsuam_vehicleuseprocedures.php).
+
 
 ## On board list
 
@@ -75,7 +59,7 @@ Here is a list for those who are just on board
 - An official welcome (can be just an email)
 - Tour of lab space
 - Point to this Wiki
-- [Request keys here](https://eeb.arizona.edu/about/department-resources/keys-keyless-access).
+- [Request keys here](https://docs.google.com/forms/d/e/1FAIpQLScOvuzktKjEygEm6wkBLCK-5JQvZG3bQL8mG8ZwZ7vlLc18uQ/viewform).
 - Accessibility through email or office visits
 - Talk about potential research projects
 - Discuss the lab Github, protocols, and useful lab skill
