@@ -19,7 +19,7 @@ Below is a list of computational tools that I would like lab members to be cogni
 
 To connect to the lab server, we need to be either on campus or use UA VPN to connect to UA intranet. The ip address is 128.104.98.132. To get access to it, we can use Terminal (`ssh user@128.104.98.132`) or go to your browser and enter http://128.104.98.132:8787/ or http://bot211.botany.wisc.edu:8787/ then login with your information.
 
-We should save our projects in `/media/dli/Data`
+We should save our projects in `/media/dli/Data` (instead of your home directory, which only has ~500Gb).
 
 ### Set up new user
 
@@ -29,7 +29,7 @@ sudo adduser username
 sudo usermod -aG sudo username
 ```
 
-Then log in to set up RStudio server:
+Then log in through your **Terminal** to set up RStudio server:
 
 ```bash
 # specify where to install R packages
